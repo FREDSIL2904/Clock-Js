@@ -28,3 +28,4 @@ const relogio = setInterval(function time(){
   minuto.textContent = min;
   segundo.textContent = sec;
 })
+ 
